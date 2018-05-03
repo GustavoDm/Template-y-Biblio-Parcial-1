@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1525373523 source:c:\users\liliana\desktop\programacion\template y biblioteca examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	"getsValids.h"
+
+1525361251 source:c:\users\liliana\desktop\programacion\template y biblioteca examen\gets&valids.c
+	<stdio.h>
+	<stdlib.h>
+
+1525361251 c:\users\liliana\desktop\programacion\template y biblioteca examen\gets&valids.h
+
+1525374413 c:\users\liliana\desktop\programacion\template y biblioteca examen\getsvalids.h
+
+1525371021 source:c:\users\liliana\desktop\programacion\template y biblioteca examen\getsvalids.c
+	<stdio.h>
+	<stdlib.h>
+	"getsValids.h"
+
