@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1525800900 source:c:\users\liliana\desktop\programacion\template y biblioteca examen\practica parcial\getsvalids.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"getsValids.h"
+
+1525800929 c:\users\liliana\desktop\programacion\template y biblioteca examen\practica parcial\getsvalids.h
+
+1514140574 source:c:\users\liliana\desktop\programacion\template y biblioteca examen\practica parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1525807562 source:c:\users\liliana\desktop\programacion\template y biblioteca examen\practica parcial\usuarioabm.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarioAbm.h"
+	"getsValids.h"
+
+1525801503 c:\users\liliana\desktop\programacion\template y biblioteca examen\practica parcial\usuarioabm.h
+
